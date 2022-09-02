@@ -33,7 +33,7 @@ int main(){
             col++;
         }
         cout<<endl;
-        
+        row++;
     }
 
 }
